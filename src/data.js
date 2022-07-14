@@ -6,10 +6,10 @@ function chillHop() {
         {
             name:"andamos guerriando",
             artist: "Arcangel",
-            cover: "https://dl.airtable.com/.attachmentThumbnails/090016c7ba7b9c75faf0548972c0706d/4ff29300",
+            cover: "https://cdn.dribbble.com/users/1237300/screenshots/6478927/__-1_1_____.gif",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://podcastcdn-27.ivoox.com/audio/2/3/6/6/89786632.m4a?secure=cQp0XyMgE_De7yrbOwBdXg==,1657788137",
+            audio: "https://doc-08-ao-docs.googleusercontent.com/docs/securesc/2an6hacm01c84md773cjc90sio258f8o/qj15j8vun7eammqa9n49q94mmimgak6e/1657782150000/01897180926544070735/01897180926544070735/1IFOXXnaokseD-Wjh8oqY4rIXimejhy1f?e=download&ax=ACxEAsZcXsEji-kUpW6rV3KCMvEstJoC9bN49j0DtQMN8YKwZX_YTdtlelQbCr7yPbHPRZt0VflAUg-PpgRpihieI_aUTre7CmmX8l4G41HdFwxdEr8OAGA5VqbbWqvJNC8BY-a3X_-lr2OkxZ5FYxsz0vmu-64pagcYKXpvNOs2_9Oyok_O8P08T_VHRyJur5bTIx3OQ1R42O6Sd1Lwl7sbGDju2jNo8-44t7uyaYJ5rc6VsoPW8ZhHCTVTmT6MeZMUcYMV7UaB6PlERTh2kg9IzB8IqJl3tQBqX1nJvyrOJtkbhSrm1KLWCI7wqKdW_VtjC2bMTMO98YC-f21JYVVF8UvKbXNemcVa9ZBraSIbIiyMoZGj0hZ-0GYcScZOufeBrdBdlTX12w41TP3n4XnvIyF4GDvsDWrrqdVnDzCybJHB18ZhM-vtJC4rRpyG-CjO2_VEgsD97QDqCzUS3fwbfShtEcFX432M563gKeZOuvuZRUojRPK94cxYJ9muEUFvdq6WoSH4pnQyX-fGpEVZPZQCpnDaYSV6-hpi_vkC3H2qKs5NJ9YxZBEgxYVTxYbpPW_Nif3FpBJZNga5jxhgjJoI6P9cyD-ceUWHMGt2ZCxGKaLaI3TBYHC6VRSHlsNLW7TE1qjLB-mmWA6DB74fvukZPE7uVhfzfl3CMEnD4V6elrc9vLNnJwz1SA8xW0qQeSqcl1xBby-tX1Co&uuid=e0520814-bb38-4380-ad2f-6193ee9a9ec7&authuser=0",
             active: true,
         },
         {
