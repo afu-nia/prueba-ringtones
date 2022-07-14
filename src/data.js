@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Krishnarjuna Yuddham",
             artist: "Telugu",
-            cover: "https://i.pinimg.com/originals/bc/57/43/bc5743245f004c7ea45cd8a71991c661.gif",
+            cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://public.sn.files.1drv.com/y4m32wW87lEs-BcIBUtC6ka8CCR_IxBg00OjofYF1nUmGOCl4FDNHhmmiHuFJ_J4Ayg97UkjlNXcWJKAb6tXd6Hy5WGQnBcwpOcvFgcmMNUAfqQ12scnXnBMIZEsOQTl6WAAmo5QT_Hgf0MGrQOOzQkBYJkQJu8iCBjUdwKPG5ZMCtm_Pyy5_ez8MD8qkWcbGc419-nmgeV_lErXRZ1if72xn5Syd9DeVk0pTdJJ9RdTRU?",
