@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"Got Radio The 60's",
-            artist: "60's",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            name:"andamos guerriando",
+            artist: "Arcangel",
+            cover: "https://dl.airtable.com/.attachmentThumbnails/090016c7ba7b9c75faf0548972c0706d/4ff29300",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "http://pureplay.cdnstream1.com/6011_128.mp3",
+            audio: "https://airtable.com/appzEKiMtenMQy1I8/tbl7QAfWUwCVAyTPQ/viwQ6gIOfm1xxf56d/recqa2QeWuwVvejsy?blocks=hide",
             active: true,
         },
         {
