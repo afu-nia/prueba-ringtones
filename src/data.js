@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://drive.google.com/file/d/1zd0pHTTj5swv0WV22cqgq1HEfwTEwXKo/preview?usp=sharing",
+            audio: "https://www.dropbox.com/s/x5tq0e5t0cvussd/Krishnarjuna%20Yuddham.mp3?dl=0",
             active: true,
         },
         {
@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://drive.google.com/file/d/1hRv1uitv3Vg8o_Qz1Dx66Z_g9bggmnGY/preview?usp=sharing",
+            audio: "https://www.dropbox.com/s/qhne3f4t63tzmix/Lord%20Shiva%20Ringtones%20Telugu%20Naa.mp3?dl=0",
             active: false,
         },
         {
