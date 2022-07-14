@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Soundstorm - Relax Radio",
+            name:"prueba 2",
             artist: "Lounge",
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=22794",
+            audio: "https://doc-0s-ao-docs.googleusercontent.com/docs/securesc/2an6hacm01c84md773cjc90sio258f8o/4p282bcgrdv5mkhjjnuc9u6rsu248qlh/1657781550000/01897180926544070735/01897180926544070735/1hRv1uitv3Vg8o_Qz1Dx66Z_g9bggmnGY?e=download&ax=ACxEAsYN6I9-E8UAXdf5EHx5NcTFozaywwpPIvFRL36lseuwaI11ztsVkMMcsUYfeZDEhYgA_lNhLEx5aXovn7-oxyXoBmde0gCuP_vbiY1zSQNuf-Dt4O4rf-I6cefEe8t1UU2IkvouhxfxVf6YQO5FBwhwOk8jbnGppRRgeuszlAEBzDRfZiqgmKHG_UjaRYuC2fAOIqk5tgxFhxio27QpiPp8nMcIWc3GKenaus1P7EZMq3-D8jVKu2uHpSvaiWyU2lx1USDbWM_Zcu1voazgubniHQwVl-uF11_SXmGoCkA4LA9sXZoly4sxMi3-DavXI0EozWQBFyJuW1wJssnXQobu4SDhXQv6J44UoIDm7wfzcQ_LQ_G8wXrZ0PcRCtuMS5Wa5znvYTzXnJdQORRRw6r0IlHSLKX7rXD7iyLs_jHbS1hViqzzRGk7i0821j9z1SluJSXSoRHqQlFbRVjROoETJ-r4aGQ-SC-b6v6z4ScnhfIlbi-2PhxftFKoyHbRQLECA4Dl2MRV-H0HCNSRxVBqs0fr_BbwCqOXwBTFoNWBm5o7t8PSwU1kvGBJ5_Mv0j9iWrSzyEBhJugntFmHbtRKHxgXrRRpBwN-hyA0yFHkVw6cyky1V5R6zvEAjhGSzqLZD23AbPAUSJHaB5enU9RfmbmMBQfTlh5j3h0MnrVJGoSL8RT6JCfotBp_buF0G16K9j4ohX_zigJo&uuid=568a01eb-60ea-46e9-a9f6-a0b53d1071dc&authuser=0&nonce=9gjk00t1nho7k&user=01897180926544070735&hash=mte8i7ht1g6fgufbsma99h59ar31jjnj",
             active: false,
         },
         {
