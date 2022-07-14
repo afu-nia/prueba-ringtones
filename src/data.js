@@ -4,16 +4,16 @@ function chillHop() {
     return [
 
         {
-            name:"andamos guerriando",
+            name:"Lord Shiva Ringtones Telugu",
             artist: "Arcangel",
             cover: "https://cdn.pixabay.com/photo/2017/04/19/10/24/vinyl-2241789_960_720.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://doc-0s-ao-docs.googleusercontent.com/docs/securesc/2an6hacm01c84md773cjc90sio258f8o/dmnqk9ns9k5oafaboa0u0ec7ffu5gbbl/1657783800000/01897180926544070735/01897180926544070735/1hRv1uitv3Vg8o_Qz1Dx66Z_g9bggmnGY?e=download&ax=ACxEAsafH-No6LtmO2bWCjtCeqVHKxQ91DfW-sQShw_kxLywBUwyKgzwaLa2gBngWSGfrykMLJf5FzQDybiXLcZXZLXaM2UeRupkbBVGhmzrkGAHWhHDJ9btr6Z_yASPJyVLlnkQag_h7Lvy6uOvpess8Y1oQR5lA28HI808z-yiF_JAzmvwOOuj8eg3uAN_Sf_MO6nR-1IUjyhhr91USq6TY02G-JzLZckPrsvKssm85u40_JD9_ANeJcG0PtGXPc_66tzWWv7dBgOuauMEUK-SMdmPA8_PPiwTFFgvcQG8flZucVygOuhDOCxahqMQm8O8NJ1ybp-kgBOH-wPYTRK8-nHKEB2RMzk32SM5RE9cFkdv1QhzWiMAIELFWGf60SWIq7Bdnk2OnO53Y_GEW73QGeLbJJQbApe9d3pxvdATucSK788FZwdtTOk7b737I01SSkb5ciSgQW0rH_tI4N0LhnXNlkCMAuqG6U3ZUJLbJ9xOSfaVEo1oG2uZQodbaBHNGfGflEjeWnsleUIKxsWpHT-lsRh73pCH8PU1RzGXW9aARi5uE3xZ-VsAcxcSm7sddg4_D7yGdCWsGtPsigjSOsajZJOB5H5_iU0hQGQ-OMIfksTpD1879hyXuHDFd6bCrGy-XOdm0dp63JU3azmdg_ttaHyugLC6lgH2XuGc-m8qElwZXWF8-BxKnjpy9Kciroj9taWT2G3J7E3M&uuid=892ab4e8-4d5b-4099-8ebb-e838e3be4b69&authuser=0&nonce=gnffjg8u5vs4q&user=01897180926544070735&hash=hmo9tpq3jcocd3491ol30l83ippnlqpb",
+            audio: "https://doc-04-ao-docs.googleusercontent.com/docs/securesc/2an6hacm01c84md773cjc90sio258f8o/sptln2dkp0cpornl3hqi2ub7vad2hh20/1657784625000/01897180926544070735/01897180926544070735/1zd0pHTTj5swv0WV22cqgq1HEfwTEwXKo?e=download&ax=ACxEAsZyuxV7PFj_dJAS3EGKI_7WJ6ePk5mczHQJo5ZhJ1lihpTG9VcE6AiAPNAVUhOLifVIqugxg5Tjt-VSWBNXNSKvj5ZL_XavnTbyWZmZXl-CyObfWeDxKcBcs49SeXOcqMm2rj2Ut53OW2hFqzbFcFtqDKNYH8a8OiOHkQDVpxn_T12K8Novf-2QLXEJjJ1gxQcD25aSM7NMXxT1NUJsPUiS5bR_fq378CHMfCLygLJx6axBBZ_40Ru0HgXMXmlUGUFhtXrJDxwNSHh4ql7uVvkNTspu1nfm_Xm4O_vk__h2EodZbwWoFlMGi1YqZyEJzXb2KQLoJfId7cm5ps873tCmwiW-HlZimmyvn599o_Vksm0sstnGg7b5OZQTL0z6-kCKuxg7WrnVomuSr-lyeu2T_5R_LFy5RFJVS8ZYtGKkqXwIVlmzj4MGgG_BT2-2k0dEncF-e8hCG11IZpJMy7yp7RP10ZzZcDHuCFE9CDO65Ms_onoPoS5QPD6KNT8WMYQbZxThfSCTYfkUd9w4_ysl-Gu-Py-dCNqxjyhaQmQJttmjNf8VGbdD-AulDqq14TKRnmPZlZxjkYdMFA9LsHke-OVB1oSZwGvcfOTkdFomL54pZ5ygSuK4KnwZFxFMCcwXQPL1nYV1RKB3KsXNu3cZRS_FbMZxxgvVIzAooj1repC38SdVSYar31y18Ze8FV3FM4pNgGsBI_gg&uuid=c905dd8c-48d6-4c10-ad3e-fb5ca9433255&authuser=0",
             active: true,
         },
           {
-            name:"andamos guerriando",
+            name:"Krishnarjuna Yuddham",
             artist: "Arcangel",
             cover: "https://cdn.pixabay.com/photo/2017/04/19/10/24/vinyl-2241789_960_720.png",
             id: uuidv4(),
