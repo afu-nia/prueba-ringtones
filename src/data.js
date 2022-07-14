@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://cdn.pixabay.com/photo/2017/04/19/10/24/vinyl-2241789_960_720.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://drive.google.com/file/d/1IFOXXnaokseD-Wjh8oqY4rIXimejhy1f/preview",
+            audio: "https://doc-08-ao-docs.googleusercontent.com/docs/securesc/2an6hacm01c84md773cjc90sio258f8o/fts3f46dmqc8gctkbppdjsqeasnn4mls/1657784400000/01897180926544070735/01897180926544070735/1IFOXXnaokseD-Wjh8oqY4rIXimejhy1f?e=download&ax=ACxEAsavVQDhmQSLQ_5QkvoRY1TQnb0NTXhpgODr5B8T4tevXDLSc0bc-qW4hr98zY57k3fAqVt26sH6APYPpN2YU-LtwcfD1OOTvuhBigZkGwqnOl3Dfyaxr17cgiUnQwCrGhpIZ8GW_6qEE-H34SAKZCDkxf_NuWqUr8Tk6BID8x3GckfXWU8T_XqmmPtEY_oGcEcBBv1BMCsFsiwLCzIz4FqQ9N3CyLUgcQrSqztmMgpjIvGwuL1k9soqMRXw85kVaGzWN-7TsikYDgsO5YRfHjKo_WbAuGlnF6w2nPK8VZaZ3vKNkewhym4WyXinZMYs1bx5-XswXCKHawAXDvSoWlJ3gNCD1XTSlnJFBiq4btN9TqeizELRZuD3TUkdoCnRRumqUNLB4ZPq5VoqU_aL7R0eMXpf8Qm2NKTLoCoLo7ynYnbrVpMI-gbxTteeYqBlpoR6AkTGoRTU_eJsixzhAuPbzG7QkOSDh1qSCctzFA2JxYDRNgApjGsY8ZHO9om2dUmodH18EGOCZat-mtsChd6VZYqA562goyVky12glJ5Lmp9XTL5rNwwHKAc9MO13jtoPOy58mzWfL2k3-sifnw0CX0LfXI1OZYeuZO1iiylTuGMT3NARZl74dM4jpFuFeP8NTRPNWzzOni6We8Wl0a_TJXhwVg4J8Rv5bMtFj6BTf_crzjDWyEIDEx3oLmRaZUNwJ5vZPveWawRr&uuid=3674c35b-d1de-403e-a8c2-99b06b621945&authuser=0&nonce=hdt2hel8d47as&user=01897180926544070735&hash=naffkhnperp0hqda4cfi7d3eb90v5hp8",
             active: true,
         },
         
