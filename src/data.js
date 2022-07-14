@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://previews.dropbox.com/p/hls_playlist/ABnZAJb1YAVO-WTnWgcH-hjHZr5RdHuKs84a3okRcx9yqliKaeTqxPu6wLRf--d-aGa6LomzYRDCbDyjnuzxReXFCd04yWn5xzqhw30qxku-wxxhNU8GKopK2cb2_x_fb-WtXCnIYMxFaRmRa_R0gwjFdJWrzSxTZOSbX8V4l71rBgpzIhfRGiwN0_420-K9XHynr_zYUma6S0INdbQgmTqO4sQYNV7ALu-23hqqQ9KKpN04_h01B3shBLnm9Cq4y5Q0NENO2awSBsZUVsHAoHhRHhohN9yQl36lBcI0GBtSkc7Ik1Ar1LAk1z06XgmxvgsQ8kIYgzc-8b338bXU6_lx5vwW0iHysxrQctv-UDvZvHvfN4tVT_AEdz3OAMc999K7DsEm65Pt7mz0LmjC-hM3Sna_M3uvnKEqXjk9gmwiyjEbAf1mNjNjJGQneX0Wcao/p.m3u8?bps=128000&type=audio",
+            audio: "https://www.dropbox.com/s/x5tq0e5t0cvussd/Krishnarjuna%20Yuddham.mp3?dl=0",
             active: true,
         },
         {
