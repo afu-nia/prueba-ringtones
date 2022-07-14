@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://dl.airtable.com/.attachmentThumbnails/090016c7ba7b9c75faf0548972c0706d/4ff29300",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://drive.google.com/file/d/1hRv1uitv3Vg8o_Qz1Dx66Z_g9bggmnGY/view?usp=sharing",
+            audio: "https://drive.google.com/file/d/1hRv1uitv3Vg8o_Qz1Dx66Z_g9bggmnGY/preview?usp=sharing",
             active: true,
         },
         {
