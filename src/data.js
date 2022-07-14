@@ -15,7 +15,7 @@ function chillHop() {
         {
             name:"Lord Shiva Ringtones Telugu Naa",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://public.sn.files.1drv.com/y4mQ8wh3MN1RXh9gZWdc5KzWr0nSzmyvPMrvUkFD-wx6kOLTjkVyeFLr9PQkoc8vcdg9evFp8TvNSMZYGSYmNryWiygegesyQYlBuVDZQeBW8fj9_DdvwQ9TaNz-JPUvnjJl5zJaJZ_JyimtfIcOqB1yuxPK_vHOlulFuudu1wtOTD3bqvnM_9EvXlH8VFQKIUGcSsyJLYptadRmSp5SbuLB7n6hxiwSqjqgtH0wvn1ics?",
