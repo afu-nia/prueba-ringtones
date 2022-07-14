@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://dl.airtable.com/.attachmentThumbnails/090016c7ba7b9c75faf0548972c0706d/4ff29300",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://www.ivoox.com/prueba-audios-mp3_rf_89786632_1.html",
+            audio: "https://podcastcdn-27.ivoox.com/audio/2/3/6/6/89786632.m4a?secure=cQp0XyMgE_De7yrbOwBdXg==,1657788137",
             active: true,
         },
         {
