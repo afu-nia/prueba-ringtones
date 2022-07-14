@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://cdn.pixabay.com/audio/2022/02/15/audio_88298447d9.mp3",
+            audio: "https://dc603.4shared.com/img/zklG_eotea/84b84ce1/dlink__2Fdownload_2FzklG_5Feotea_2FLord_5FShiva_5FRingtones_5FTelugu_5FNa.mp3_3Fsbsr_3D34d0e33645d5431ccb122386021fe969ab5_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: true,
         },
         {
@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://www.dropbox.com/s/qhne3f4t63tzmix/Lord%20Shiva%20Ringtones%20Telugu%20Naa.mp3?dl=0",
+            audio: "https://dc687.4shared.com/img/0njwtQlOea/8243a0ba/dlink__2Fdownload_2F0njwtQlOea_2FTelugu_5F4.mp3_3Fsbsr_3Da1868aa2fb49d500d014cfa3cf6fa508ab5_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
