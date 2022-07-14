@@ -13,7 +13,7 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Soundstorm - Relax Radio",
+            name:"el otro",
             artist: "Lounge",
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
@@ -22,7 +22,7 @@ function chillHop() {
             active: false,
         },
         {
-            name:"SomaFM Left Coast 70's",
+            name:"prueba 2",
             artist: "70's",
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
@@ -31,21 +31,21 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Hotmixradio 80",
+            name:"prueba 3",
             artist: "80's",
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "http://streaming.hotmixradio.fm/hotmixradio-80-128.mp3?from=tunein",
+            audio: "https://public.sn.files.1drv.com/y4mrxNqmxaD0ilxDLkLlfWgDInQftwvzWwRtpNkK9-z2Rd_AY8H-71m8Z7e4PQ78T9WKIBlbWIXJ0_10t-6-00BiyKSiRRvbxCbcsN2w-9SdtXkvH-B3agnu_Xwx2io_HPWhs2VYp1l4PatdTp3dG42L_vko6C09NrSnLNA-QYRAzalE9aaymH5A8rz3-vLu3JE6zFoWg0ZUP0uy9NUYFQW4g32tk-jsX9F30MXI9p4DxA?",
             active: false,
         },
         {
-            name:"Hotmixradio Lounge",
+            name:"prueba 4",
             artist: "Lounge",
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: " http://streaming.hotmixradio.fr/hotmixradio-lounge-128.mp3?from=tunein",
+            audio: "https://public.sn.files.1drv.com/y4m7XwizrTYbfGJfFPnzYXolK_nQOS-TNJ7Julw-9e3IMDln3MHw6pERt7-ShA85gd3Q-zGgrtfzghmg4fskcyF38oyNUVqkX380Q7kqpOqtpdMEYlacspgFq0hQxc5KtvhmXhE9oZk0olplaYtRcmB50rUiW8oRSSahYkYu8-uGWt7b2Ps2mhEmW2rRPny3jI9XVMO_TAzBB_9f3kflNBIpiXLo4kQlpafSnsXK13YKKQ?",
             active: false,
         },
         {
