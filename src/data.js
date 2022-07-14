@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"Got Radio The 60's",
+            name:"prueba",
             artist: "60's",
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://www.dropbox.com/s/x5tq0e5t0cvussd/Krishnarjuna%20Yuddham.mp3?dl=0",
+            audio: "https://cdn.pixabay.com/audio/2022/02/15/audio_88298447d9.mp3",
             active: true,
         },
         {
