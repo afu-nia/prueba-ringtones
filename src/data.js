@@ -27,7 +27,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "http://ice2.somafm.com/seventies-128-mp3",
+            audio: "https://public.sn.files.1drv.com/y4mOMYrD4q7HFVdWSPutassNGUMZrGs14fjh70LfnJGq8QeDNW0f9b1-dY0WbROZqfpcZStMJaLLaO3gAAdsIf4a6VSak53oCgDtJ5dImd0xZCFPDfyKXk8ULygxer1G-6tmd7HjXxEJ-TpTgLKEpNZly4BY13NHcqOY5mlK-of6f-zX8QhLRj2Wh_CqxgRj728FoG1baMqAq4gy5tf-OBOMbB-6XSeO2eag6hZAMn4JGI?",
             active: false,
         },
         {
