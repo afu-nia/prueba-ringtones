@@ -13,6 +13,15 @@ function chillHop() {
             active: true,
         },
         
+            name:"andamos guerriando",
+            artist: "Arcangel",
+            cover: "https://cdn.pixabay.com/photo/2017/04/19/10/24/vinyl-2241789_960_720.png",
+            id: uuidv4(),
+            color: ["#F24933", "#F9B437"],
+            audio: "https://drive.google.com/file/d/1IFOXXnaokseD-Wjh8oqY4rIXimejhy1f/preview",
+            active: true,
+        },
+        
       
     ];
 }
