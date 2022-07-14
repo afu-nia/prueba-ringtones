@@ -24,7 +24,7 @@ function chillHop() {
         {
             name:"Majnu",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://public.sn.files.1drv.com/y4mpmJYPp3h4phHSrhy3vJKvxiiOmHles3X5hXDpUKGl0kbrzZrs4vfjq0fMJdrGrbzarqrw3rnYvKlguzN0VOML8Dd31gDFoKlLJqzRUSAu7grpNMvQfORDtR3zw53PjyoTQVbLYNn-5CkJ6oAeBU40BlT5yUsjbsWwxszDuKYKHlOJNBsvPfePj_zG53QYwyW4tD2sNKs7yfK-FMKgZVvCI6K89jxQ_bzcRU7BONifwU?",
@@ -33,7 +33,7 @@ function chillHop() {
         {
             name:"Mounamelanoyi",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://public.sn.files.1drv.com/y4m34QtVw3WKuksOuMebehUJIFKqI32KFTmUbajlAdDKTgOnBY608ek_t1uYQwXy8yUOQGduIjXP3dkg3ivqLGi3mhjHlkV6PXwxiFEXHY1Rl4IUL5q-PkeXAseQ6hLL38Jj8rvDvFqQfoFzLMFqOw_l-v_w2UbalZrZBYM3Wf72-z-t83L7xwUBGaWFwzMHSjute5lnjrFLQ3nTC1z6oDd5UBk_OylC4YrbETjbm95sps?",
@@ -42,7 +42,7 @@ function chillHop() {
         {
             name:"Ringtone Songs",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
             audio: "https://public.sn.files.1drv.com/y4mRIp-M1lo67vNGsU-VlncmcLJBX_nAUcLzr4GQai2rE1YmfH8JrDrwihGlZ_uT6IekKWlXuY4IGWtycLp4yvBtH6YPTT-AYcXFhRqGQlazztxr2NgSYtkz8TBmUpwCuFR_nfhwsZ8rF3IUZUK0HLiNvk0xU_DIoApxZXGFEhFpxH8jdUj2H-3gEhfBI0wHYgfmVpjp7et5JcxEgMF1UEe3O2CK75qyyyVnoUSUJQqA-k?",
@@ -51,7 +51,7 @@ function chillHop() {
         {
             name:"Ringtones 2018",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
             audio: "https://public.sn.files.1drv.com/y4mwo-1yIZ4Er2YDSkGrM1RwrsO0X40GvEarbbOlzlG9khP7cYIqoO_6hPOzV3xWBF-GwOuOZTt05ZDPzyHHSha366wPmVXllwTOjnviIBJ7xKy_Wx3IgZU5UoeGblJGC4W2c-XgULGyKp_-3zcJqeRMqXtU7a6V1lO_qiw5rFi8IztLbvkSwBoujsaX-WC_8bZLlxFM0Rnh-8bAQjW4YkXAHI1J76TPJ1-21Lnaazh0RY?",
@@ -60,7 +60,7 @@ function chillHop() {
         {
             name:"RX 100 Sound",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#191516", "#82698E"],
             audio: "https://public.sn.files.1drv.com/y4mfdkFcEI1SMpcuNuP-YS2jitWnboByHjpx9HCs_OwfNoHPkZokZ1j5w9cqjRMBQTm8ndtqHtDrFp5eK-t1bNS5FNh0a93VLQx6zmzyT_pinAXVJHhELqu8AwuQj5pfMwkpJKqHe1AY0Yfu-dqtqFmLUqrbAAhcQKqZ4w8HYKXzCu5T5yDihxYlsQI6cWJ8XfF225Kc7-4LnGv30UWHEsKCSDrul07UTJ60aJass5AHQA?",
@@ -69,7 +69,7 @@ function chillHop() {
         {
             name:"Telugu 4",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://public.sn.files.1drv.com/y4mdAuXYfcgmCp09ukbjupxnF8srGsBI3tXez3HDKqBUZxdMq6n-h2DZhyiOcnh0W1pvQ0ZkaiBpKCQ7_u7mXjBwv5vA5PiAd8AbpEs1_3CNX5N93vCNHI7vpY45JfN9s7zPMl_efjVLicvPHWYlgI37nrdIb07AW16B8TiQ6g2WsQ5xfpqMJckgKURvS0hJ6fKULZmsJ0ScwC2IK-kqnfOPGFORgffCQfcpcn47PIE3D8?",
@@ -78,7 +78,7 @@ function chillHop() {
         {
             name:"telugu 5",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
             audio: "https://public.sn.files.1drv.com/y4mQigzKiouwDyBI6jxkk19MLkkWmbjSLdaYBYUV2-skrllV3ihKZS3pf_omaREWXogGPVe09ksZj9JtwY51AtY6O4zERenVfziQ14suxPPW3AlamyQhOLZ4b_7mi_lR_y7VcjWOJjGL2orTMVdNThX2I6R5ECqKTTC1k_unUNL-ntaKgJ6vGhD8yg0FrKU294YEgW0i0Sw-RQx3DbXnOjLW4Ii1reo43cFUgathC_AtB0?",
@@ -87,7 +87,7 @@ function chillHop() {
         {
             name:"telugu 6",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://public.sn.files.1drv.com/y4mtHcGtBIsO9uKy1ua7jcAzzWHu4ie_BX6bntVEjJUwTkRPFAmyzYrvYiVhzlL3Ag1iNtc13rnnp0xn9DkKCoMYf_GOk5lqp2TvXV3G1WAHN6TQK5-XXc-95mU_HTz0m8Nyja-pqsZ80ShOG6mn5XL5dAJuoTzJ9P1x03GUrhlydw2deagcpdUibDK4tTuQiUvpDZfyF7KGEGRB1xyduCfeWHAGbe2pIOEVMXA8TSbP9w?",
@@ -96,7 +96,7 @@ function chillHop() {
         {
             name:"telugu 7",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://public.sn.files.1drv.com/y4m-ZDibNG37kq2wuZ1SwJxpKtwVXpRVFa1oDPfREY_Hx8xsk7Jy25Ij-U1GdqwVlS8xgWRA8kzlJB9xGy4HZNmOuIBNeHHV4eCQsCIPhydKkkbtdm8J8rrJ_u_VhrNHKvj9UjnnEN-RLEizhZhQ2uO6kEfcfOLim_2y7HEZTbjxEewjM-23Q5zc3FQKBLOGxcar0oBodvszHbzuc9nW6DhoR3FZsaRnUAm_pNUeBav70s?",
@@ -105,7 +105,7 @@ function chillHop() {
         {
             name:"Telugu Bgm",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://public.sn.files.1drv.com/y4mI0gY1hwTHZU5Vta3-BvjvZeV0v7NUoVHlLJHlSlmQ0vd2zIvIHUSU2XlNAktUgIxzhO5i0IcKOJWT8nDjnG8HIeXdlQm5oIU10DCGCL1hIId43miybajnsCMK4TLN4M2slGrmBxEZ7K0rzwThSJVZjIw_axw7KPsK0Iry8IgBuT6L_DKE-RwL1iwvkudkX7m2FQtIypf5soZkMcyinWP_ySUT3cGsbe5t13HslCxE7A?",
@@ -114,7 +114,7 @@ function chillHop() {
         {
             name:"Telugu God",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://public.sn.files.1drv.com/y4mHLYK2Rv_gLQz0IAduteaCm8s-snnevblYN3o8orHzveThRX4csVM1pnm_5I8a2oS3dHn5MWqoyRvuyGBzYdhxw8Wr0qpdu7UHt8QgzMy1tBOVGNaIK_yk-l996jWLWFvYluXJbaLRi9MnYfWMgGHnBpJPwAD7o_72hl4PqXDOWwv8y7tFKLoqk2-sgBNxAMU-QgQodrLpZyTXV3BC6pbFxqGqMjwPvHPUHyIQjhStcM?",
@@ -123,7 +123,7 @@ function chillHop() {
         {
             name:"Telugu Songs Ringtones",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://public.sn.files.1drv.com/y4mvDweFogqlsOFykeCAry4g_k3RN0PTJYhhuaoPznKmEk6eKdBL9v5NVFJODofivfyTdwHvxUhiFRzflbZEOP0Tmj18TBlPRHocxSnwkoMoNiXD5HrQ-jSwdAnDR4bU0cSW5UJUuD5scJEsjDTCja9y-TVPY0pcNvAc3EohvRTFkgb-FExl7YOUQAnKjPzlwST7HtQwaZaN1n1TqGscQhXREtoWFjZD9orLDCjusZyy0g?",
@@ -132,7 +132,7 @@ function chillHop() {
         {
             name:"Venkateswara Swamy",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://public.sn.files.1drv.com/y4mcIuo0ptB4ay94dhbFgEiePuNNAmsl9KcKdwwUPuaBjwjIXeI9qMf6ZVO7RputgepCXI2fVlyp5fBEcwrY6xdiaq3HjX0nYDB1JAHbUZ85a9-7P8-vzg3UcRkP4fS7YrMgSLBvDU8GhGAAbgdp47uXExj5m3epBoL0sOLTaKJmkeYJKqYRG6YDvJbuHZbN2S8GWttnuFVlFSQJ8wDVLwE0AE68-CWaBav4ziAP2S92Sc?",
@@ -141,7 +141,7 @@ function chillHop() {
         {
             name:"Yamadonga",
             artist: "Telugu",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://public.sn.files.1drv.com/y4m_clyKMxZh2xAsUbtE9AAKXRJQDI5yjWKoxTGL1y-ww8V1IK3jY_tYre5AlIq7sPV-bwxqRB7cQVQ9WX9b-sXjigP6-dFn8SaN-38lPcYMAmFtMUlvsc9cuq4QVw66bxExdYP8yKpRkScbMXCGn8JtrDRQBtANwN5jSiyLwkc_X8i1AMilbA0vwWMOrYGlZwuqKAFYQxEfQM_HApvuJ8b2N7rdrTLi9eBMbSy8I-pGiI?",
