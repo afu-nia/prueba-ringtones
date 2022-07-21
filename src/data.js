@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Krishnarjuna Yuddham",
             artist: "Telugu",
-            cover: "https://i.gifer.com/1Kte.gif",
+            cover: "https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://dc725.4shared.com/img/pplF12CWea/47b8c1cd/dlink__2Fdownload_2FpplF12CWea_2FKrishnarjuna_5FYuddham.mp3_3Fsbsr_3D9c5b4f913cfe472d130548434d99a9d1ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -33,7 +33,7 @@ function chillHop() {
         {
             name:"Mounamelanoyi",
             artist: "Telugu",
-            cover: "https://i.gifer.com/1Kte.gif",
+            cover: "https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc725.4shared.com/img/iPV39_scea/b782092f/dlink__2Fdownload_2FiPV39_5Fscea_2FMounamelanoyi.mp3_3Fsbsr_3D1cb8d82d4f10b75788675d48808f4084ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -60,7 +60,7 @@ function chillHop() {
         {
             name:"RX 100 Sound",
             artist: "Telugu",
-            cover: "https://i.gifer.com/1Kte.gif",
+            cover: "https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif",
             id: uuidv4(),
             color: ["#191516", "#82698E"],
             audio: "https://dc725.4shared.com/img/XIdl703rea/c10477d/dlink__2Fdownload_2FXIdl703rea_2FRX_5F100_5FSound.mp3_3Fsbsr_3D224bc31b7f7b429a79c76109fc3c6e0dab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -87,7 +87,7 @@ function chillHop() {
         {
             name:"telugu 6",
             artist: "Telugu",
-            cover: "https://i.gifer.com/1Kte.gif",
+            cover: "https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc725.4shared.com/img/ScI4JmZliq/bff62f33/dlink__2Fdownload_2FScI4JmZliq_2Ftelugu_5F6.mp3_3Fsbsr_3D4ab6f6a40ebcadc4669fb9daf93a5588ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -114,7 +114,7 @@ function chillHop() {
         {
             name:"Telugu God",
             artist: "Telugu",
-            cover: "https://i.gifer.com/1Kte.gif",
+            cover: "https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc725.4shared.com/img/9AfLzvEzea/cdda65e5/dlink__2Fdownload_2F9AfLzvEzea_2FTelugu_5FGod.mp3_3Fsbsr_3Df060f176b2fd5d84bdc456d432a34c36ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -141,7 +141,7 @@ function chillHop() {
         {
             name:"Yamadonga",
             artist: "Telugu",
-            cover: "https://i.gifer.com/1Kte.gif",
+            cover: "https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc725.4shared.com/img/CCs1QyIniq/e6f73626/dlink__2Fdownload_2FCCs1QyIniq_2FYamadonga.mp3_3Fsbsr_3Dda08629eadbefdbc7f457d6c3a0ec2abab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
