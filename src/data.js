@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://public.sn.files.1drv.com/y4m32wW87lEs-BcIBUtC6ka8CCR_IxBg00OjofYF1nUmGOCl4FDNHhmmiHuFJ_J4Ayg97UkjlNXcWJKAb6tXd6Hy5WGQnBcwpOcvFgcmMNUAfqQ12scnXnBMIZEsOQTl6WAAmo5QT_Hgf0MGrQOOzQkBYJkQJu8iCBjUdwKPG5ZMCtm_Pyy5_ez8MD8qkWcbGc419-nmgeV_lErXRZ1if72xn5Syd9DeVk0pTdJJ9RdTRU?",
+            audio: "https://dc725.4shared.com/img/pplF12CWea/47b8c1cd/dlink__2Fdownload_2FpplF12CWea_2FKrishnarjuna_5FYuddham.mp3_3Fsbsr_3D9c5b4f913cfe472d130548434d99a9d1ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: true,
         },
         {
@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://public.sn.files.1drv.com/y4mQ8wh3MN1RXh9gZWdc5KzWr0nSzmyvPMrvUkFD-wx6kOLTjkVyeFLr9PQkoc8vcdg9evFp8TvNSMZYGSYmNryWiygegesyQYlBuVDZQeBW8fj9_DdvwQ9TaNz-JPUvnjJl5zJaJZ_JyimtfIcOqB1yuxPK_vHOlulFuudu1wtOTD3bqvnM_9EvXlH8VFQKIUGcSsyJLYptadRmSp5SbuLB7n6hxiwSqjqgtH0wvn1ics?",
+            audio: "https://dc725.4shared.com/img/9uB95AuXea/f43ac546/dlink__2Fdownload_2F9uB95AuXea_2FLord_5FShiva_5FRingtones_5FTelugu_5FNa.mp3_3Fsbsr_3D3eb47946d03d49ba138d68b4106463e4ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -27,7 +27,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://public.sn.files.1drv.com/y4mpmJYPp3h4phHSrhy3vJKvxiiOmHles3X5hXDpUKGl0kbrzZrs4vfjq0fMJdrGrbzarqrw3rnYvKlguzN0VOML8Dd31gDFoKlLJqzRUSAu7grpNMvQfORDtR3zw53PjyoTQVbLYNn-5CkJ6oAeBU40BlT5yUsjbsWwxszDuKYKHlOJNBsvPfePj_zG53QYwyW4tD2sNKs7yfK-FMKgZVvCI6K89jxQ_bzcRU7BONifwU?",
+            audio: "https://dc725.4shared.com/img/BkQoLUySiq/ce5eb18b/dlink__2Fdownload_2FBkQoLUySiq_2FMajnu.mp3_3Fsbsr_3Dbb8a28fbf05da59a6c97b1bbf24dac18ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -36,7 +36,7 @@ function chillHop() {
             cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://public.sn.files.1drv.com/y4m34QtVw3WKuksOuMebehUJIFKqI32KFTmUbajlAdDKTgOnBY608ek_t1uYQwXy8yUOQGduIjXP3dkg3ivqLGi3mhjHlkV6PXwxiFEXHY1Rl4IUL5q-PkeXAseQ6hLL38Jj8rvDvFqQfoFzLMFqOw_l-v_w2UbalZrZBYM3Wf72-z-t83L7xwUBGaWFwzMHSjute5lnjrFLQ3nTC1z6oDd5UBk_OylC4YrbETjbm95sps?",
+            audio: "https://dc725.4shared.com/img/iPV39_scea/b782092f/dlink__2Fdownload_2FiPV39_5Fscea_2FMounamelanoyi.mp3_3Fsbsr_3D1cb8d82d4f10b75788675d48808f4084ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -45,7 +45,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: "https://public.sn.files.1drv.com/y4mRIp-M1lo67vNGsU-VlncmcLJBX_nAUcLzr4GQai2rE1YmfH8JrDrwihGlZ_uT6IekKWlXuY4IGWtycLp4yvBtH6YPTT-AYcXFhRqGQlazztxr2NgSYtkz8TBmUpwCuFR_nfhwsZ8rF3IUZUK0HLiNvk0xU_DIoApxZXGFEhFpxH8jdUj2H-3gEhfBI0wHYgfmVpjp7et5JcxEgMF1UEe3O2CK75qyyyVnoUSUJQqA-k?",
+            audio: "https://dc725.4shared.com/img/FyHRz8Fjiq/3e2625ff/dlink__2Fdownload_2FFyHRz8Fjiq_2FRingtone_5FSongs.mp3_3Fsbsr_3Ddadb3c8148dc93bab4c93e150ac88b94ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -54,7 +54,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
-            audio: "https://public.sn.files.1drv.com/y4mwo-1yIZ4Er2YDSkGrM1RwrsO0X40GvEarbbOlzlG9khP7cYIqoO_6hPOzV3xWBF-GwOuOZTt05ZDPzyHHSha366wPmVXllwTOjnviIBJ7xKy_Wx3IgZU5UoeGblJGC4W2c-XgULGyKp_-3zcJqeRMqXtU7a6V1lO_qiw5rFi8IztLbvkSwBoujsaX-WC_8bZLlxFM0Rnh-8bAQjW4YkXAHI1J76TPJ1-21Lnaazh0RY?",
+            audio: "https://dc725.4shared.com/img/AZfxF16Aiq/85b46bad/dlink__2Fdownload_2FAZfxF16Aiq_2FRingtones_5F2018.mp3_3Fsbsr_3D45c26d40d22b818257a5a221ebe9fea5ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -63,7 +63,7 @@ function chillHop() {
             cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#191516", "#82698E"],
-            audio: "https://public.sn.files.1drv.com/y4mfdkFcEI1SMpcuNuP-YS2jitWnboByHjpx9HCs_OwfNoHPkZokZ1j5w9cqjRMBQTm8ndtqHtDrFp5eK-t1bNS5FNh0a93VLQx6zmzyT_pinAXVJHhELqu8AwuQj5pfMwkpJKqHe1AY0Yfu-dqtqFmLUqrbAAhcQKqZ4w8HYKXzCu5T5yDihxYlsQI6cWJ8XfF225Kc7-4LnGv30UWHEsKCSDrul07UTJ60aJass5AHQA?",
+            audio: "https://dc725.4shared.com/img/XIdl703rea/c10477d/dlink__2Fdownload_2FXIdl703rea_2FRX_5F100_5FSound.mp3_3Fsbsr_3D224bc31b7f7b429a79c76109fc3c6e0dab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -72,7 +72,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
-            audio: "https://public.sn.files.1drv.com/y4mdAuXYfcgmCp09ukbjupxnF8srGsBI3tXez3HDKqBUZxdMq6n-h2DZhyiOcnh0W1pvQ0ZkaiBpKCQ7_u7mXjBwv5vA5PiAd8AbpEs1_3CNX5N93vCNHI7vpY45JfN9s7zPMl_efjVLicvPHWYlgI37nrdIb07AW16B8TiQ6g2WsQ5xfpqMJckgKURvS0hJ6fKULZmsJ0ScwC2IK-kqnfOPGFORgffCQfcpcn47PIE3D8?",
+            audio: "https://dc725.4shared.com/img/hxMpO9iDea/aa32748f/dlink__2Fdownload_2FhxMpO9iDea_2FTelugu_5F4.mp3_3Fsbsr_3D30aeff76f349896a8239b51a1982db9bab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -81,7 +81,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
-            audio: "https://public.sn.files.1drv.com/y4mQigzKiouwDyBI6jxkk19MLkkWmbjSLdaYBYUV2-skrllV3ihKZS3pf_omaREWXogGPVe09ksZj9JtwY51AtY6O4zERenVfziQ14suxPPW3AlamyQhOLZ4b_7mi_lR_y7VcjWOJjGL2orTMVdNThX2I6R5ECqKTTC1k_unUNL-ntaKgJ6vGhD8yg0FrKU294YEgW0i0Sw-RQx3DbXnOjLW4Ii1reo43cFUgathC_AtB0?",
+            audio: "https://dc725.4shared.com/img/qsN13DYGea/7f5b8327/dlink__2Fdownload_2FqsN13DYGea_2Ftelugu_5F5.mp3_3Fsbsr_3Db3fe8b3d0f5d7852437c02a6c26fa043ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -90,7 +90,7 @@ function chillHop() {
             cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://public.sn.files.1drv.com/y4mtHcGtBIsO9uKy1ua7jcAzzWHu4ie_BX6bntVEjJUwTkRPFAmyzYrvYiVhzlL3Ag1iNtc13rnnp0xn9DkKCoMYf_GOk5lqp2TvXV3G1WAHN6TQK5-XXc-95mU_HTz0m8Nyja-pqsZ80ShOG6mn5XL5dAJuoTzJ9P1x03GUrhlydw2deagcpdUibDK4tTuQiUvpDZfyF7KGEGRB1xyduCfeWHAGbe2pIOEVMXA8TSbP9w?",
+            audio: "https://dc725.4shared.com/img/ScI4JmZliq/bff62f33/dlink__2Fdownload_2FScI4JmZliq_2Ftelugu_5F6.mp3_3Fsbsr_3D4ab6f6a40ebcadc4669fb9daf93a5588ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -99,7 +99,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://public.sn.files.1drv.com/y4m-ZDibNG37kq2wuZ1SwJxpKtwVXpRVFa1oDPfREY_Hx8xsk7Jy25Ij-U1GdqwVlS8xgWRA8kzlJB9xGy4HZNmOuIBNeHHV4eCQsCIPhydKkkbtdm8J8rrJ_u_VhrNHKvj9UjnnEN-RLEizhZhQ2uO6kEfcfOLim_2y7HEZTbjxEewjM-23Q5zc3FQKBLOGxcar0oBodvszHbzuc9nW6DhoR3FZsaRnUAm_pNUeBav70s?",
+            audio: "https://dc725.4shared.com/img/Q3w6WPdFiq/99c67c3a/dlink__2Fdownload_2FQ3w6WPdFiq_2Ftelugu_5F7.mp3_3Fsbsr_3Dfbc5f1d6399849c746830ead6022412fab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -108,7 +108,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://public.sn.files.1drv.com/y4mI0gY1hwTHZU5Vta3-BvjvZeV0v7NUoVHlLJHlSlmQ0vd2zIvIHUSU2XlNAktUgIxzhO5i0IcKOJWT8nDjnG8HIeXdlQm5oIU10DCGCL1hIId43miybajnsCMK4TLN4M2slGrmBxEZ7K0rzwThSJVZjIw_axw7KPsK0Iry8IgBuT6L_DKE-RwL1iwvkudkX7m2FQtIypf5soZkMcyinWP_ySUT3cGsbe5t13HslCxE7A?",
+            audio: "https://dc725.4shared.com/img/lvomOhi9iq/ee26f481/dlink__2Fdownload_2FlvomOhi9iq_2FTelugu_5FBgm.mp3_3Fsbsr_3D5669cdc51965ec5db9d8748e4af8ef90ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -117,7 +117,7 @@ function chillHop() {
             cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://public.sn.files.1drv.com/y4mHLYK2Rv_gLQz0IAduteaCm8s-snnevblYN3o8orHzveThRX4csVM1pnm_5I8a2oS3dHn5MWqoyRvuyGBzYdhxw8Wr0qpdu7UHt8QgzMy1tBOVGNaIK_yk-l996jWLWFvYluXJbaLRi9MnYfWMgGHnBpJPwAD7o_72hl4PqXDOWwv8y7tFKLoqk2-sgBNxAMU-QgQodrLpZyTXV3BC6pbFxqGqMjwPvHPUHyIQjhStcM?",
+            audio: "https://dc725.4shared.com/img/9AfLzvEzea/cdda65e5/dlink__2Fdownload_2F9AfLzvEzea_2FTelugu_5FGod.mp3_3Fsbsr_3Df060f176b2fd5d84bdc456d432a34c36ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -126,7 +126,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://public.sn.files.1drv.com/y4mvDweFogqlsOFykeCAry4g_k3RN0PTJYhhuaoPznKmEk6eKdBL9v5NVFJODofivfyTdwHvxUhiFRzflbZEOP0Tmj18TBlPRHocxSnwkoMoNiXD5HrQ-jSwdAnDR4bU0cSW5UJUuD5scJEsjDTCja9y-TVPY0pcNvAc3EohvRTFkgb-FExl7YOUQAnKjPzlwST7HtQwaZaN1n1TqGscQhXREtoWFjZD9orLDCjusZyy0g?",
+            audio: "https://dc725.4shared.com/img/JgiBe2lKiq/d3ac90bd/dlink__2Fdownload_2FJgiBe2lKiq_2FTelugu_5FSongs_5FRingtones.mp3_3Fsbsr_3D41c6545e8ce07c950f853bdea43ede6eab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -135,7 +135,7 @@ function chillHop() {
             cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://public.sn.files.1drv.com/y4mcIuo0ptB4ay94dhbFgEiePuNNAmsl9KcKdwwUPuaBjwjIXeI9qMf6ZVO7RputgepCXI2fVlyp5fBEcwrY6xdiaq3HjX0nYDB1JAHbUZ85a9-7P8-vzg3UcRkP4fS7YrMgSLBvDU8GhGAAbgdp47uXExj5m3epBoL0sOLTaKJmkeYJKqYRG6YDvJbuHZbN2S8GWttnuFVlFSQJ8wDVLwE0AE68-CWaBav4ziAP2S92Sc?",
+            audio: "https://dc725.4shared.com/img/UrBl363Wea/f881c37e/dlink__2Fdownload_2FUrBl363Wea_2FVenkateswara_5FSwamy.mp3_3Fsbsr_3D116c71f861399852839453b0d4dbcaaaab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
         {
@@ -144,7 +144,7 @@ function chillHop() {
             cover: "https://i.gifer.com/1Kte.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://public.sn.files.1drv.com/y4m_clyKMxZh2xAsUbtE9AAKXRJQDI5yjWKoxTGL1y-ww8V1IK3jY_tYre5AlIq7sPV-bwxqRB7cQVQ9WX9b-sXjigP6-dFn8SaN-38lPcYMAmFtMUlvsc9cuq4QVw66bxExdYP8yKpRkScbMXCGn8JtrDRQBtANwN5jSiyLwkc_X8i1AMilbA0vwWMOrYGlZwuqKAFYQxEfQM_HApvuJ8b2N7rdrTLi9eBMbSy8I-pGiI?",
+            audio: "https://dc725.4shared.com/img/CCs1QyIniq/e6f73626/dlink__2Fdownload_2FCCs1QyIniq_2FYamadonga.mp3_3Fsbsr_3Dda08629eadbefdbc7f457d6c3a0ec2abab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
             active: false,
         },
        
