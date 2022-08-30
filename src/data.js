@@ -15,7 +15,7 @@ function chillHop() {
         {
             name:"Lord Shiva Ringtones Telugu Naa",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://dc725.4shared.com/img/9uB95AuXea/f43ac546/dlink__2Fdownload_2F9uB95AuXea_2FLord_5FShiva_5FRingtones_5FTelugu_5FNa.mp3_3Fsbsr_3D3eb47946d03d49ba138d68b4106463e4ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -24,7 +24,7 @@ function chillHop() {
         {
             name:"Majnu",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://dc725.4shared.com/img/BkQoLUySiq/ce5eb18b/dlink__2Fdownload_2FBkQoLUySiq_2FMajnu.mp3_3Fsbsr_3Dbb8a28fbf05da59a6c97b1bbf24dac18ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -42,7 +42,7 @@ function chillHop() {
         {
             name:"Ringtone Songs",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
             audio: "https://dc725.4shared.com/img/FyHRz8Fjiq/3e2625ff/dlink__2Fdownload_2FFyHRz8Fjiq_2FRingtone_5FSongs.mp3_3Fsbsr_3Ddadb3c8148dc93bab4c93e150ac88b94ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -51,7 +51,7 @@ function chillHop() {
         {
             name:"Ringtones 2018",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
             audio: "https://dc725.4shared.com/img/AZfxF16Aiq/85b46bad/dlink__2Fdownload_2FAZfxF16Aiq_2FRingtones_5F2018.mp3_3Fsbsr_3D45c26d40d22b818257a5a221ebe9fea5ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -69,7 +69,7 @@ function chillHop() {
         {
             name:"Telugu 4",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://dc725.4shared.com/img/hxMpO9iDea/aa32748f/dlink__2Fdownload_2FhxMpO9iDea_2FTelugu_5F4.mp3_3Fsbsr_3D30aeff76f349896a8239b51a1982db9bab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -78,7 +78,7 @@ function chillHop() {
         {
             name:"telugu 5",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
             audio: "https://dc725.4shared.com/img/qsN13DYGea/7f5b8327/dlink__2Fdownload_2FqsN13DYGea_2Ftelugu_5F5.mp3_3Fsbsr_3Db3fe8b3d0f5d7852437c02a6c26fa043ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -96,7 +96,7 @@ function chillHop() {
         {
             name:"telugu 7",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://dc725.4shared.com/img/Q3w6WPdFiq/99c67c3a/dlink__2Fdownload_2FQ3w6WPdFiq_2Ftelugu_5F7.mp3_3Fsbsr_3Dfbc5f1d6399849c746830ead6022412fab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -105,7 +105,7 @@ function chillHop() {
         {
             name:"Telugu Bgm",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc725.4shared.com/img/lvomOhi9iq/ee26f481/dlink__2Fdownload_2FlvomOhi9iq_2FTelugu_5FBgm.mp3_3Fsbsr_3D5669cdc51965ec5db9d8748e4af8ef90ab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -123,7 +123,7 @@ function chillHop() {
         {
             name:"Telugu Songs Ringtones",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/ce/ce9b1b80a59bc4090dcded493ccba5f3_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://dc725.4shared.com/img/JgiBe2lKiq/d3ac90bd/dlink__2Fdownload_2FJgiBe2lKiq_2FTelugu_5FSongs_5FRingtones.mp3_3Fsbsr_3D41c6545e8ce07c950f853bdea43ede6eab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
@@ -132,7 +132,7 @@ function chillHop() {
         {
             name:"Venkateswara Swamy",
             artist: "Telugu",
-            cover: "https://i.gifer.com/origin/9d/9dc2aec2fb4b0948a9a2675606ff5f75_w200.webp",
+            cover: "https://c.tenor.com/EZ5syKlgNaQAAAAC/orb.gif",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://dc725.4shared.com/img/UrBl363Wea/f881c37e/dlink__2Fdownload_2FUrBl363Wea_2FVenkateswara_5FSwamy.mp3_3Fsbsr_3D116c71f861399852839453b0d4dbcaaaab6_26bip_3DMTgxLjU4LjM5LjEwNg_26lgfp_3D52_26bip_3DMTgxLjU4LjM5LjEwNg/preview.mp3",
